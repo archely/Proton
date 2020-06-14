@@ -1,0 +1,7 @@
+/dist
+/dist-*
+/obj-*
+/syn-*
+
+/.vagrant/
+/vagrant_share/
